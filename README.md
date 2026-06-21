@@ -95,11 +95,9 @@ python -m main_orb
 
 ---
 
-## Equity Curves
+## Results
 
-*(Add screenshots here — before-fix and after-fix equity curves, side by side)*
-
----
+See [RESULTS.md](RESULTS.md) for before/after comparison charts (equity curve, drawdown, Monte Carlo).
 
 ## Tech
 
