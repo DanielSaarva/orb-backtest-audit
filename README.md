@@ -84,6 +84,7 @@ strategy_orb.py      — opening range detection, breakout confirmation, entry s
 main_orb.py           — entry point, train/test split, results printing, charts
 results_orb.py        — trade log / backtest log persistence
 config_example.py     — example configuration (rename to config.py, adjust paths/values)
+RESULTS.md         — before/after charts: equity curve, drawdown, Monte Carlo
 ```
 
 To run:
