@@ -26,7 +26,7 @@ The "before" version shows a strategy that dips, recovers to new highs three sep
 
 ---
 
-## Monte Carlo Simulation (1,000 runs, $100,000 starting equity)
+## Monte Carlo Simulation (1,000 runs, $100,000 starting equity) QQQ is an ETF tracking the Nasdaq-100 index, used here as a passive benchmark.
 
 | Before Fix | After Fix |
 |---|---|
